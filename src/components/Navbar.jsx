@@ -17,7 +17,7 @@ const Navbar = ({ toggleShortlist, shortlistCount, isAdmin, onToggleAdmin }) => 
             <div style={{ display: 'flex', alignItems: 'center', gap: '0.75rem' }}>
                 <Mail size={28} color="var(--accent-primary)" />
                 <h1 className="font-serif" style={{ fontSize: '1.5rem', fontWeight: 700, margin: 0 }}>
-                    Arjuns <span style={{ color: 'var(--accent-primary)' }}>Stamps</span>
+                    Stamp <span style={{ color: 'var(--accent-primary)' }}>Arjun</span>
                 </h1>
             </div>
 
